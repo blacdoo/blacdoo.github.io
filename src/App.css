@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  padding-top: 25%;
+}
+
+.title-header{
+  font-size: 5em;
+}
+
+.title-blurb{
+  font-size: 1.5em;
+}
+
+.profile{
+  height: 200px;
+}
